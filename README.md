@@ -1,1 +1,1 @@
-Complete Ruby on Rails Developer by KQenzé Xispoinine
+Complete Ruby on Rails Developer by KQué
